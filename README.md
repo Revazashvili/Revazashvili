@@ -24,6 +24,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+### Badges
+
+
+<img src="images/net-workloads-on-aws-app-runner.png" height="100" alt="medium" style="margin-bottom: 5px;" />
+
+<br/>  
+
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
