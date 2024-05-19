@@ -12,17 +12,7 @@
 </a>
 <a href="https://medium.com/@levanrevazashvili" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
-I'm a .Net developer.
-
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light and powerful. I'm learning project architectures and DDD. I also frequently blog about .Net and related stuff.  
-
-<br/>  
+</a>
 
 
 ## Rapidfire  
