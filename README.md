@@ -14,29 +14,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Forbid](https://github.com/Revazashvili/Forbid) and [Netjection](https://github.com/Revazashvili/Netjection)  
-  
-
-- 🌱 I’m currently learning DDD and Software Architecture  
-  
-
-- ⚡ Fun fact: I use dotnot  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-<br/>
-
 ## Github Stats
 
 ![Revazashvili 's GitHub stats](https://github-readme-stats.vercel.app/api?username=revazashvili&show_icons=true&theme=dracula)
